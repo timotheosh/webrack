@@ -1,0 +1,7 @@
+# Emacs artifacts
+*~
+\#*
+.\#*
+# Vi(m) artifacts
+*.swp
+
